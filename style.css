@@ -1,0 +1,18 @@
+body {
+  background-color: #333;
+  color: #999;
+}
+
+input {
+  width: 540px;
+  height: 25px;
+  border-radius: 20px;
+  border: none;
+}
+
+button {
+  height: 25px;
+  width: 50px;
+  border-radius: 10px;
+  border: none;
+}
